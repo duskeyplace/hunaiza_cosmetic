@@ -1,0 +1,122 @@
+/* indx.html styling start */
+
+
+
+.mainbody{
+    background-color: black;
+    color: #F9CC1B;
+    font-family: sans-serif;
+}
+
+.navmain{
+    width: 100%;
+    height: 50px;
+ 
+    display: flex;
+    justify-content: center;
+}
+
+.navimg{
+
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+
+}
+
+.imgcardss{
+    border: 2px solid #F9CC1B;
+    width: 254px;
+    height: 130px;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+    
+
+
+h2{
+    text-align: center;
+    margin-top: 330px !important;
+}
+
+
+
+
+.fimg{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    width: 250px;
+   
+        border: 2px solid #F9CC1B;
+        box-shadow: 1px 1px 1px 1px #F9CC1B;
+  
+
+}
+
+
+/* indx.html styling end */
+
+
+
+/* makeup styling :start */
+
+.makeupmainbody{
+    
+    font-family: sans-serif;
+    text-align: center;
+    
+
+}
+
+.fh1{
+    font-weight: bold !important;
+    text-shadow: 2px 3px 2px gray;
+    margin-bottom: 20px !important;
+    text-align: center;
+}
+
+h1{
+    font-weight: bold !important;
+    text-shadow: 2px 3px 2px gray;
+    margin-bottom: 20px !important;
+}
+
+.cardss{
+    border: 1px solid #CCCCCC;
+    width: 250px !important;
+    height: 385px;
+    flex-wrap: wrap;
+}
+
+
+.cardss:hover{
+    
+    border: 1px solid #D63384;
+    box-shadow:  #D63384 0px 3px 6px,  #D63384  0px 3px 6px;
+color: #D63384;
+    
+   
+}
+
+.cardsimg{
+    width: 200px;
+    flex-wrap: wrap;
+
+}
+
+
+.faceimg{
+    font-size: 50px;
+}
+
+
+.insimg{
+    font-size: 47px;
+    background: linear-gradient(45deg, #833AB4, #FD1D1D, #FCB045);
+    border-radius: 10px;
+    color: white;}
+
+
